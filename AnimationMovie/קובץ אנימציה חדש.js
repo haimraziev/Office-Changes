@@ -2911,7 +2911,7 @@ p.nominalBounds = new cjs.Rectangle(-1,-1,110,110);
 		
 		
 		
-		createjs.Sound.registerSound("/sounds/sound1.mp3","a");
+		createjs.Sound.registerSound("https://haimraziev.github.io/Office-Changes/AnimationMovie/sounds/sound1.mp3","a");
 		createjs.Sound.stop();
 	}
 	this.frame_1 = function() {
